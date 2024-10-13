@@ -1,0 +1,9 @@
+sample:
+  personels:
+    - personel:
+        name : Gizem
+        surname: Salihoğlu
+        company: Havelsan
+        title: TestEngineer
+        Age : 32
+        CompanyID: 4863

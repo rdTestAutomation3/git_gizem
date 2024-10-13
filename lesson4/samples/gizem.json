@@ -1,0 +1,14 @@
+{
+  "sample": {
+    "personel": [
+      {
+        "name": "Gizem",
+        "surname": "Salihoğlu",
+        "company": "Havelsan",
+        "title": "TestEngineer",
+        "age": 32,
+        "CompanyID": 4863
+      }
+    ]
+  }
+}
