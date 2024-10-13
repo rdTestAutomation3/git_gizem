@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0de86dd1-3633-4a90-9853-a59852ad989c" name="Changes" comment="history geçmişi" />
+    <list default="true" id="0de86dd1-3633-4a90-9853-a59852ad989c" name="Changes" comment="json">
+      <change afterPath="$PROJECT_DIR$/personelModelleme.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -76,7 +85,28 @@
       <option name="project" value="LOCAL" />
       <updated>1728844552912</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="xml">
+      <created>1728844655460</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1728844655460</updated>
+    </task>
+    <task id="LOCAL-00007" summary="yaml">
+      <created>1728844672596</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1728844672596</updated>
+    </task>
+    <task id="LOCAL-00008" summary="json">
+      <created>1728844687006</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1728844687006</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -93,6 +123,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="xml,json ve yaml ödevi" />
     <MESSAGE value="history geçmişi" />
-    <option name="LAST_COMMIT_MESSAGE" value="history geçmişi" />
+    <MESSAGE value="xml" />
+    <MESSAGE value="yaml" />
+    <MESSAGE value="json" />
+    <option name="LAST_COMMIT_MESSAGE" value="json" />
   </component>
 </project>
